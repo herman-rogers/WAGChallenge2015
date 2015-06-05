@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: c73b9e48ed5afa34a8bebea5d606e9bf
+timeCreated: 1433531914
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rough_Run_Spritesheet_0
+    21300002: Rough_Run_Spritesheet_1
+    21300004: Rough_Run_Spritesheet_2
+    21300006: Rough_Run_Spritesheet_3
+    21300008: Rough_Run_Spritesheet_4
+    21300010: Rough_Run_Spritesheet_5
+    21300012: Rough_Run_Spritesheet_6
+    21300014: Rough_Run_Spritesheet_7
+    21300016: Rough_Run_Spritesheet_8
+    21300018: Rough_Run_Spritesheet_9
+    21300020: Rough_Run_Spritesheet_10
+    21300022: Rough_Run_Spritesheet_11
+    21300024: Rough_Run_Spritesheet_12
+    21300026: Rough_Run_Spritesheet_13
+    21300028: Rough_Run_Spritesheet_14
+    21300030: Rough_Run_Spritesheet_15
+    21300032: Rough_Run_Spritesheet_16
+    21300034: Rough_Run_Spritesheet_17
+    21300036: Rough_Run_Spritesheet_18
+    21300038: Rough_Run_Spritesheet_19
+    21300040: Rough_Run_Spritesheet_20
+    21300042: Rough_Run_Spritesheet_21
+    21300044: Rough_Run_Spritesheet_22
+    21300046: Rough_Run_Spritesheet_23
+    21300048: Rough_Run_Spritesheet_24
+    21300050: Rough_Run_Spritesheet_25
+    21300052: Rough_Run_Spritesheet_26
+    21300054: Rough_Run_Spritesheet_27
+    21300056: Rough_Run_Spritesheet_28
+    21300058: Rough_Run_Spritesheet_29
+    21300060: Rough_Run_Spritesheet_30
+    21300062: Rough_Run_Spritesheet_31
+    21300064: Rough_Run_Spritesheet_32
+    21300066: Rough_Run_Spritesheet_33
+    21300068: Rough_Run_Spritesheet_34
+    21300070: Rough_Run_Spritesheet_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rough_Run_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 699
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 684
+        width: 240
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 674
+        width: 225
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 666
+        width: 198
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 666
+        width: 186
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 654
+        width: 169
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 651
+        width: 156
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 651
+        width: 131
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 646
+        width: 134
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 646
+        width: 139
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 646
+        width: 151
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 644
+        width: 173
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 651
+        width: 193
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 652
+        width: 194
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 654
+        width: 213
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 661
+        width: 230
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 366
+        width: 255
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 366
+        width: 263
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 366
+        width: 273
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 366
+        width: 273
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 366
+        width: 281
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 357
+        width: 270
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 349
+        width: 256
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 334
+        width: 246
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 336
+        width: 225
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 334
+        width: 208
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 331
+        width: 174
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 331
+        width: 154
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 334
+        width: 139
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 346
+        width: 158
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 356
+        width: 175
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 356
+        width: 206
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 43
+        width: 226
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 58
+        width: 240
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 58
+        width: 250
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Run_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 76
+        width: 256
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
