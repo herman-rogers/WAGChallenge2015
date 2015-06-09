@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: d4f088a2fb3943d49b820243063960ff
+timeCreated: 1433876711
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rough_Speedvault_Revision_Spritesheet_0
+    21300002: Rough_Speedvault_Revision_Spritesheet_1
+    21300004: Rough_Speedvault_Revision_Spritesheet_2
+    21300006: Rough_Speedvault_Revision_Spritesheet_3
+    21300008: Rough_Speedvault_Revision_Spritesheet_4
+    21300010: Rough_Speedvault_Revision_Spritesheet_5
+    21300012: Rough_Speedvault_Revision_Spritesheet_6
+    21300014: Rough_Speedvault_Revision_Spritesheet_7
+    21300016: Rough_Speedvault_Revision_Spritesheet_8
+    21300018: Rough_Speedvault_Revision_Spritesheet_9
+    21300020: Rough_Speedvault_Revision_Spritesheet_10
+    21300022: Rough_Speedvault_Revision_Spritesheet_11
+    21300024: Rough_Speedvault_Revision_Spritesheet_12
+    21300026: Rough_Speedvault_Revision_Spritesheet_13
+    21300028: Rough_Speedvault_Revision_Spritesheet_14
+    21300030: Rough_Speedvault_Revision_Spritesheet_15
+    21300032: Rough_Speedvault_Revision_Spritesheet_16
+    21300034: Rough_Speedvault_Revision_Spritesheet_17
+    21300036: Rough_Speedvault_Revision_Spritesheet_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rough_Speedvault_Revision_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 488
+        width: 196
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 480
+        width: 230
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 480
+        width: 217
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 480
+        width: 220
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 474
+        width: 254
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 471
+        width: 271
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 509
+        width: 284
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 561
+        width: 255
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 539
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 539
+        width: 201
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 226
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 115
+        width: 209
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 95
+        width: 211
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 53
+        width: 192
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 66
+        width: 185
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 53
+        width: 211
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 61
+        width: 252
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 65
+        width: 248
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Speedvault_Revision_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 79
+        width: 224
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
