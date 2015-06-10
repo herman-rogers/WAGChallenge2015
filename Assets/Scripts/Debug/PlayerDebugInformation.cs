@@ -43,7 +43,7 @@ public class PlayerDebugInformation : MonoBehaviour {
     }
 
     private void PlayerInfoBox( ) {
-        GUI.TextArea( new Rect( 10, 40, 300, 200 ), "Player Controller Info" );
+        GUI.TextArea( new Rect( 10, 40, 300, 200 ), "Player Stats Adjuster" );
         GUI.Label( new Rect( 20, 70, 300, 20 ), "On The Ground: " + characterController.isGrounded );
         GUI.Label( new Rect( 20, 90, 300, 20 ), "Object Hit: " + objectCurrentlyCollidingWith );
         GUI.Label( new Rect( 20, 110, 300, 20 ), "Object Distance: " + playerHitInformation.distance );
