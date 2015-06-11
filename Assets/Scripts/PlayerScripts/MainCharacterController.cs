@@ -6,19 +6,26 @@ public class MainCharacterController : MonoBehaviour {
     public float maxSpeed = 10.0f;
     public float jumpForce = 400;
     public float speedVault = 250;
+    public float dashVault = 250;
+    public float kongVault = 250;
     public float accelerationRate = 1.0f;
     public bool isGrounded = false;
     private Rigidbody2D characterRigidbody;
-    private PlayerObjectDetection hitObject;
     private Animator characterAnimator;
     private bool facingRight = true;
-    private float accelerationMultiplier = 0.0f;
     private float acceleration;
 
+    private PlayerState _state;
+    private string activeInput;
+
     private void Start( ) {
+        _state = new PlayerState( );
+        PlayerState._jumpState = new JumpingState( this.gameObject );
+        PlayerState._speedVault = new SpeedVaultState( this.gameObject );
+        PlayerState._dashVault = new DashVaultState( this.gameObject );
+        PlayerState._kongVault = new KongState( this.gameObject );
         characterRigidbody = GetComponent<Rigidbody2D>( );
         characterAnimator = GetComponent<Animator>( );
-        hitObject = GetComponent<PlayerObjectDetection>( );
     }
 
     private void FixedUpdate( ) {
@@ -31,29 +38,40 @@ public class MainCharacterController : MonoBehaviour {
     }
 
     private void Update( ) {
-        if ( isGrounded && Input.GetKeyDown( KeyCode.Space ) ) {
-            StartCoroutine( PlayerAnimationOnce( "Jump" ) );
-            GetComponent<Rigidbody2D>( ).AddForce( new Vector2( 0, jumpForce ) );
+
+        if ( Input.GetButtonDown( "Jump" ) ) {
+            _state = PlayerState._jumpState;
+            activeInput = "Jump";
         }
-        if ( isGrounded && Input.GetKeyDown( KeyCode.S ) ) {
-            GetComponent<Rigidbody2D>( ).AddForce( new Vector2( 0, speedVault ) );
-            StartCoroutine( PlayerAnimationOnce( "SpeedVault" ) );
-            if ( ( hitObject.currentHitObject.distance > 7.0f && hitObject.currentHitObject.distance < 13.0f ) ) {
-                StartCoroutine( TemporarilyDisableCollider( hitObject.currentHitObject ) );
-            }
+        if ( Input.GetButtonDown( "SpeedVault" ) ) {
+            _state = PlayerState._speedVault;
+            activeInput = "SpeedVault";
         }
+        if ( Input.GetButtonDown( "DashVault" ) ) {
+            _state = PlayerState._dashVault;
+            activeInput = "DashVault";
+        }
+        //if ( Input.GetButtonDown( "KongVault" ) ) {
+        //    _state = PlayerState._kongVault;
+        //    activeInput = "KongVault";
+        //}
+
+        if ( activeInput == null || Mathf.Abs( characterRigidbody.velocity.x ) <= 0.0f ) {
+            Debug.Log( characterRigidbody.velocity.x );
+            return;
+        }
+        _state.HandlePlayerInput( this.gameObject );
+        _state.PlayerUpdate( this.gameObject, Input.GetButtonDown( activeInput ) );
     }
 
-    private IEnumerator PlayerAnimationOnce( string animationName ) {
-        characterAnimator.SetBool( animationName, true );
+    public void PlayAnimationOnce( string animation ) {
+        StartCoroutine( AnimationOneShot( animation ) );
+    }
+
+    private IEnumerator AnimationOneShot( string animation ) {
+        characterAnimator.SetBool( animation, true );
         yield return null;
-        characterAnimator.SetBool( animationName, false );
-    }
-
-    private IEnumerator TemporarilyDisableCollider( RaycastHit2D hit ) {
-        hit.collider.enabled = false;
-        yield return new WaitForSeconds( 1.0f );
-        hit.collider.enabled = true;
+        characterAnimator.SetBool( animation, false );
     }
 
     private void MoveCharacter( float move ) {

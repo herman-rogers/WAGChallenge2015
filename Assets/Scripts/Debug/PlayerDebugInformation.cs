@@ -5,6 +5,7 @@ public class PlayerDebugInformation : MonoBehaviour {
 
     public GameObject playerCharacter;
     private MainCharacterController characterController;
+    private PlayerGroundCheck groundCheck;
     private PlayerObjectDetection playerDebugObjectDetection;
     private RaycastHit2D playerHitInformation;
     private Rigidbody2D playerRigidbody;
@@ -15,6 +16,7 @@ public class PlayerDebugInformation : MonoBehaviour {
 
     private void Start( ) {
         characterController = playerCharacter.GetComponent<MainCharacterController>( );
+        groundCheck = playerCharacter.GetComponentInChildren<PlayerGroundCheck>( );
         playerDebugObjectDetection = playerCharacter.GetComponent<PlayerObjectDetection>( );
         playerRigidbody = playerCharacter.GetComponent<Rigidbody2D>( );
     }
@@ -44,7 +46,7 @@ public class PlayerDebugInformation : MonoBehaviour {
 
     private void PlayerInfoBox( ) {
         GUI.TextArea( new Rect( 10, 40, 300, 200 ), "Player Stats Adjuster" );
-        GUI.Label( new Rect( 20, 70, 300, 20 ), "On The Ground: " + characterController.isGrounded );
+        GUI.Label( new Rect( 20, 70, 300, 20 ), "On The Ground: " + groundCheck.isGrounded );
         GUI.Label( new Rect( 20, 90, 300, 20 ), "Object Hit: " + objectCurrentlyCollidingWith );
         GUI.Label( new Rect( 20, 110, 300, 20 ), "Object Distance: " + playerHitInformation.distance );
         GUI.Label( new Rect( 20, 130, 300, 20 ), "Acceleration: " + playerVelocity );

@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 53dd15d438f4b044ba23de8221c52170
+timeCreated: 1434060033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rough_Kong_spritesheet_0
+    21300002: Rough_Kong_spritesheet_1
+    21300004: Rough_Kong_spritesheet_2
+    21300006: Rough_Kong_spritesheet_3
+    21300008: Rough_Kong_spritesheet_4
+    21300010: Rough_Kong_spritesheet_5
+    21300012: Rough_Kong_spritesheet_6
+    21300014: Rough_Kong_spritesheet_7
+    21300016: Rough_Kong_spritesheet_8
+    21300018: Rough_Kong_spritesheet_9
+    21300020: Rough_Kong_spritesheet_10
+    21300022: Rough_Kong_spritesheet_11
+    21300024: Rough_Kong_spritesheet_12
+    21300026: Rough_Kong_spritesheet_13
+    21300028: Rough_Kong_spritesheet_14
+    21300030: Rough_Kong_spritesheet_15
+    21300032: Rough_Kong_spritesheet_16
+    21300034: Rough_Kong_spritesheet_17
+    21300036: Rough_Kong_spritesheet_18
+    21300038: Rough_Kong_spritesheet_19
+    21300040: Rough_Kong_spritesheet_20
+    21300042: Rough_Kong_spritesheet_21
+    21300044: Rough_Kong_spritesheet_22
+    21300046: Rough_Kong_spritesheet_23
+    21300048: Rough_Kong_spritesheet_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rough_Kong_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 421
+        width: 155
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 421
+        width: 221
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 436
+        width: 247
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 445
+        width: 179
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 432
+        width: 163
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 425
+        width: 210
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 407
+        width: 249
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 428
+        width: 309
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 477
+        width: 322
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 513
+        width: 348
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 564
+        width: 354
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 491
+        width: 326
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 88
+        width: 289
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 107
+        width: 242
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 109
+        width: 201
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 124
+        width: 173
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 103
+        width: 182
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 88
+        width: 169
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 71
+        width: 151
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 72
+        width: 149
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 88
+        width: 154
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 92
+        width: 153
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 78
+        width: 169
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Kong_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 72
+        width: 240
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

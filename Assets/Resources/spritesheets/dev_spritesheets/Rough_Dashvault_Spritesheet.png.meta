@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 20b3a591a59ac0b4185d9e8a988834f4
+timeCreated: 1434058419
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rough_Dashvault_Spritesheet_0
+    21300002: Rough_Dashvault_Spritesheet_1
+    21300004: Rough_Dashvault_Spritesheet_2
+    21300006: Rough_Dashvault_Spritesheet_3
+    21300008: Rough_Dashvault_Spritesheet_4
+    21300010: Rough_Dashvault_Spritesheet_5
+    21300012: Rough_Dashvault_Spritesheet_6
+    21300014: Rough_Dashvault_Spritesheet_7
+    21300016: Rough_Dashvault_Spritesheet_8
+    21300018: Rough_Dashvault_Spritesheet_9
+    21300020: Rough_Dashvault_Spritesheet_10
+    21300022: Rough_Dashvault_Spritesheet_11
+    21300024: Rough_Dashvault_Spritesheet_12
+    21300026: Rough_Dashvault_Spritesheet_13
+    21300028: Rough_Dashvault_Spritesheet_14
+    21300030: Rough_Dashvault_Spritesheet_15
+    21300032: Rough_Dashvault_Spritesheet_16
+    21300034: Rough_Dashvault_Spritesheet_17
+    21300036: Rough_Dashvault_Spritesheet_18
+    21300038: Rough_Dashvault_Spritesheet_19
+    21300040: Rough_Dashvault_Spritesheet_20
+    21300042: Rough_Dashvault_Spritesheet_21
+    21300044: Rough_Dashvault_Spritesheet_22
+    21300046: Rough_Dashvault_Spritesheet_23
+    21300048: Rough_Dashvault_Spritesheet_24
+    21300050: Rough_Dashvault_Spritesheet_25
+    21300052: Rough_Dashvault_Spritesheet_26
+    21300054: Rough_Dashvault_Spritesheet_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rough_Dashvault_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 891
+        width: 288
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 891
+        width: 205
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 891
+        width: 134
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 882
+        width: 173
+        height: 368
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 891
+        width: 225
+        height: 362
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 873
+        width: 210
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 879
+        width: 238
+        height: 395
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 903
+        width: 267
+        height: 371
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 933
+        width: 249
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 511
+        width: 245
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 553
+        width: 245
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 555
+        width: 241
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 544
+        width: 261
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 546
+        width: 276
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 548
+        width: 293
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 554
+        width: 320
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 575
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 518
+        width: 326
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 401
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 96
+        width: 217
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 93
+        width: 171
+        height: 321
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 103
+        width: 129
+        height: 310
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 107
+        width: 296
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 135
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 903
+        width: 255
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 514
+        width: 372
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rough_Dashvault_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 94
+        width: 305
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
